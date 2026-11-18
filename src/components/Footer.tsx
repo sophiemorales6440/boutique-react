@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer className="footer"> 
-            <p>© 2026 Ma Boutique . Tous droits réservés.</p>
+            <p>© 2026 Ma Boutique. Tous droits réservés.</p>
         </footer>
     );
 }
